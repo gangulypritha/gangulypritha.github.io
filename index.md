@@ -1,4 +1,6 @@
-<title> Pritha Ganguly </title> # About Me
+<title> Pritha Ganguly </title> 
+# About Me
+
 I am currently pursuing my Masters under the guidance of Dr. Mitesh M. Khapra at IIT Madras. 
 
 # Work Experience
