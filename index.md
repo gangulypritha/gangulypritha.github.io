@@ -1,7 +1,10 @@
 <title> Pritha Ganguly </title> 
 
 ## About Me
-I am currently pursuing my Masters under the supervision of [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/) in the Department of [Computer Science and Engineering (C.S.E), Indian Institute of Technology (IIT) Madras.](http://www.cse.iitm.ac.in/) My research area broadly spans Computer Vision, Visual Question Answering and Deep Learning. I am also working as a Project Associate at [Robert Bosch Centre for Data Science and Artificial Intelligence](https://rbc-dsai.iitm.ac.in/) where I'm exploring how to make machines comprehend structured images.
+I am currently pursuing my Masters under the supervision of [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/) in the Department of [Computer Science and Engineering (C.S.E), Indian Institute of Technology (IIT) Madras.](http://www.cse.iitm.ac.in/) 
+<!---
+My research area broadly spans Computer Vision, Visual Question Answering and Deep Learning. I am also working as a Project Associate at [Robert Bosch Centre for Data Science and Artificial Intelligence](https://rbc-dsai.iitm.ac.in/) where I'm exploring how to make machines comprehend structured images.
+-->
 
 ## Work Experience
 * **Research Engineer** at **Centre for Development of Telematics (C-DOT) Bengaluru**, 2015 - 2017.
