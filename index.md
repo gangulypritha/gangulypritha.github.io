@@ -1,8 +1,8 @@
 <title> Pritha Ganguly </title> 
 
 ## About Me
-I am currently working as a Senior Engineer in the Vision Research Group at [Samsung R&D Institute, Bengaluru](https://research.samsung.com/sri-b). Prior to this, I completed my Masters under the supervision of [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/) in the Department of [Computer Science and Engineering (C.S.E), Indian Institute of Technology (IIT) Madras.](http://www.cse.iitm.ac.in/) 
-My research area broadly spans Computer Vision, Visual Question Answering and Deep Learning. I was also working as a Project Associate at [Robert Bosch Centre for Data Science and Artificial Intelligence](https://rbc-dsai.iitm.ac.in/) where I was exploring how to make machines comprehend structured images.
+I am currently working as a Senior Engineer in the Vision Research Group at [Samsung R&D Institute, Bengaluru](https://research.samsung.com/sri-b). My research area broadly spans Video Compression algorithms, Computer Vision, and Deep Learning. Prior to this, I completed my Masters under the supervision of [Dr. Mitesh M. Khapra](http://www.cse.iitm.ac.in/~miteshk/) in the Department of [Computer Science and Engineering (C.S.E), Indian Institute of Technology (IIT) Madras.](http://www.cse.iitm.ac.in/) 
+During this time, I also worked as a Project Associate at [Robert Bosch Centre for Data Science and Artificial Intelligence](https://rbc-dsai.iitm.ac.in/) where I explored how to make machines comprehend structured images.
 
 
 ## Work Experience
